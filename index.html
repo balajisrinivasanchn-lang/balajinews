@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#ef4444" />
+  <title>YouTube & Tech Radar PWA</title>
+  <link rel="manifest" href="./manifest.json" />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --text: #f8fafc;
+      --subtext: #94a3b8;
+      --accent: #ef4444;       /* YouTube brand red accent */
+      --accent-hover: #dc2626;
+      --success: #10b981;
+      --border: #334155;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { background-color: var(--bg); color: var(--text); padding-bottom: 80px; min-height: 100vh; }
+
+    header {
+      background-color: rgba(15, 23, 42, 0.95);
+      position: sticky; top: 0; z-index: 100;
+      border-bottom: 1px solid var(--border);
+      padding: 14px 20px;
+      display: flex; justify-content: space-between; align-items: center;
+      backdrop-filter: blur(8px);
+    }
+    .brand { font-size: 1.25rem; font-weight: 700; color: #f87171; display: flex; align-items: center; gap: 8px; }
+    .header-actions { display: flex; gap: 10px; }
+
+    button {
+      background-color: var(--accent); color: white; border: none;
+      padding: 8px 16px; border-radius: 8px; font-weight: 600;
+      cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+      transition: all 0.2s;
+    }
+    button:hover { background-color: var(--accent-hover); }
+    button.outline { background: transparent; border: 1px solid var(--border); color: var(--text); }
+    button.outline:hover { background: var(--card-bg); }
+
+    /* Category Pill Selector */
+    .tabs-wrapper {
+      display: flex; gap: 10px; padding: 14px 20px;
+      overflow-x: auto; scrollbar-width: none;
+      border-bottom: 1px solid var(--border);
+      background: #131d33;
+    }
+    .tabs-wrapper::-webkit-scrollbar { display: none; }
+    .tab-btn {
+      white-space: nowrap; background-color: var(--card-bg);
+      border: 1px solid var(--border); color: var(--subtext);
+      padding: 8px 16px; border-radius: 20px; font-size: 0.88rem; cursor: pointer;
+      font-weight: 500;
+    }
+    .tab-btn.active { background-color: var(--accent); color: white; border-color: var(--accent); }
+
+    /* Feed Layout */
+    .container { max-width: 800px; margin: 24px auto; padding: 0 16px; }
+    
+    .feed-card {
+      background-color: var(--card-bg); border-radius: 14px;
+      border: 1px solid var(--border); overflow: hidden;
+      margin-bottom: 24px; box-shadow: 0 6px 16px rgba(0,0,0,0.35);
+      position: relative; transition: opacity 0.3s ease, border-color 0.3s;
+    }
+    .feed-card.read { opacity: 0.35; filter: grayscale(50%); }
+
+    .card-thumb-container {
+      position: relative; width: 100%; height: 260px; background-color: #0b1120;
+      overflow: hidden;
+    }
+    .card-thumb {
+      width: 100%; height: 100%; object-fit: cover; display: block;
+    }
+    .video-play-tag {
+      position: absolute; bottom: 12px; right: 12px;
+      background: rgba(0, 0, 0, 0.8); color: #fff;
+      font-size: 0.75rem; font-weight: 700; padding: 4px 8px; border-radius: 4px;
+      display: flex; align-items: center; gap: 4px;
+    }
+
+    .card-body { padding: 20px; }
+
+    .card-meta {
+      display: flex; justify-content: space-between; align-items: center;
+      font-size: 0.78rem; color: var(--subtext); margin-bottom: 12px;
+      text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px;
+    }
+    .badge { background: #334155; padding: 4px 10px; border-radius: 6px; color: #fca5a5; }
+    
+    .card-title {
+      font-size: 1.25rem; font-weight: 600; line-height: 1.4;
+      margin-bottom: 12px; color: #ffffff;
+    }
+
+    /* Strict 5-Line Description clamp */
+    .card-snippet {
+      font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin-bottom: 18px;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-actions {
+      display: flex; justify-content: space-between; align-items: center;
+      border-top: 1px solid var(--border); padding-top: 16px;
+    }
+    .read-btn { background-color: var(--success); }
+    .read-btn:hover { background-color: #059669; }
+
+    /* Modal */
+    .modal {
+      display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.75);
+      backdrop-filter: blur(4px); z-index: 1000; align-items: center; justify-content: center;
+    }
+    .modal-content {
+      background: var(--card-bg); padding: 24px; border-radius: 12px;
+      width: 90%; max-width: 440px; border: 1px solid var(--border);
+    }
+    .modal-content input {
+      width: 100%; padding: 10px; margin: 8px 0 16px;
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 6px; color: var(--text); font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">▶ YouTube & Tech Radar (Last 3 Days)</div>
+    <div class="header-actions">
+      <button class="outline" onclick="openAddModal()">＋ Add Category</button>
+      <button onclick="refreshFeeds()">🔄 Refresh</button>
+    </div>
+  </header>
+
+  <!-- Category Selection Bar -->
+  <div class="tabs-wrapper" id="tabsBar"></div>
+
+  <!-- Feed Container -->
+  <div class="container" id="feedContainer">
+    <div style="text-align: center; color: var(--subtext); padding: 40px;">Fetching latest 3-day updates...</div>
+  </div>
+
+  <!-- Add Category Modal -->
+  <div class="modal" id="addModal">
+    <div class="modal-content">
+      <h3 style="margin-bottom: 12px;">Add Custom Category</h3>
+      <label>Category Label</label>
+      <input type="text" id="catLabel" placeholder="e.g. AI Models, Python Tutorials" />
+      
+      <label>Search Query Keywords</label>
+      <input type="text" id="catQuery" placeholder="e.g. site:youtube.com (watch OR shorts) robotics" />
+      
+      <div style="display:flex; justify-content: flex-end; gap: 8px;">
+        <button class="outline" onclick="closeAddModal()">Cancel</button>
+        <button onclick="addNewCategory()">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Register Service Worker
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch(console.error);
+      });
+    }
+
+    // Default Preloaded Categories targeting Tech and YouTube Videos/Shorts from the last 3 days
+    const DEFAULT_CATEGORIES = [
+      {
+        id: "cat_ai_tech",
+        name: "1. AI & Tech News",
+        query: "(Claude OR ChatGPT OR Grok OR Kimi OR 'Indian IT' OR 'Android apps' OR 'AI tool') (site:youtube.com OR news) when:3d"
+      },
+      {
+        id: "cat_tamil_yt",
+        name: "2. Tamil Trending (YouTube / Shorts)",
+        query: "site:youtube.com (watch OR shorts) (Tamil trending OR viral OR news) when:3d"
+      },
+      {
+        id: "cat_national_yt",
+        name: "3. National Trending (YouTube / Shorts)",
+        query: "site:youtube.com (watch OR shorts) (India viral trending news) when:3d"
+      },
+      {
+        id: "cat_cbse_yt",
+        name: "4. CBSE & Education (YouTube / Shorts)",
+        query: "site:youtube.com (watch OR shorts) (CBSE OR 'school education' OR exams) when:3d"
+      }
+    ];
+
+    let categories = JSON.parse(localStorage.getItem('saved_categories_yt')) || DEFAULT_CATEGORIES;
+    let activeCategoryId = categories[0].id;
+    let readArticles = new Set(JSON.parse(localStorage.getItem('read_articles') || "[]"));
+
+    function renderCategoryTabs() {
+      const tabsBar = document.getElementById('tabsBar');
+      tabsBar.innerHTML = '';
+      categories.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.className = `tab-btn ${cat.id === activeCategoryId ? 'active' : ''}`;
+        btn.innerText = cat.name;
+        btn.onclick = () => {
+          activeCategoryId = cat.id;
+          renderCategoryTabs();
+          loadFeedForActiveCategory();
+        };
+        tabsBar.appendChild(btn);
+      });
+    }
+
+    // Extract high-res YouTube video screenshot or fallback web thumbnail
+    function extractMediaThumbnail(item) {
+      // Check for YouTube Video or Shorts ID inside URLs
+      const fullUrl = item.link || '';
+      const ytMatch = fullUrl.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=|shorts\/))([\w-]{11})/);
+      if (ytMatch && ytMatch[1]) {
+        return {
+          url: `https://img.youtube.com/vi/${ytMatch[1]}/hqdefault.jpg`,
+          isYouTube: true
+        };
+      }
+
+      if (item.thumbnail && item.thumbnail.startsWith('http')) {
+        return { url: item.thumbnail, isYouTube: false };
+      }
+      if (item.enclosure && item.enclosure.link) {
+        return { url: item.enclosure.link, isYouTube: false };
+      }
+
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = item.content || item.description || '';
+      const img = tempDiv.querySelector('img');
+      if (img && img.src && !img.src.includes('googleusercontent.com/viewer')) {
+        return { url: img.src, isYouTube: false };
+      }
+
+      return null;
+    }
+
+    async function loadFeedForActiveCategory() {
+      const container = document.getElementById('feedContainer');
+      container.innerHTML = `<div style="text-align: center; color: var(--subtext); padding: 40px;">Fetching latest YouTube & Tech updates from last 3 days...</div>`;
+
+      const currentCat = categories.find(c => c.id === activeCategoryId);
+      if (!currentCat) return;
+
+      const feedUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(currentCat.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
+
+      try {
+        const response = await fetch(apiUrl);
+        const data = await response.json();
+
+        if (!data.items || data.items.length === 0) {
+          container.innerHTML = `<div style="text-align: center; color: var(--subtext); padding: 40px;">No updates found in the last 3 days for this topic.</div>`;
+          return;
+        }
+
+        container.innerHTML = '';
+
+        data.items.forEach((item, index) => {
+          const isRead = readArticles.has(item.link);
+          const card = document.createElement('div');
+          card.className = `feed-card ${isRead ? 'read' : ''}`;
+          card.id = `card-${index}`;
+
+          const media = extractMediaThumbnail(item);
+
+          // Strip HTML tags for clean 5-line descriptive text
+          const rawDescription = (item.content || item.description || '')
+            .replace(/<style[^>]*>.*<\/style>/gi, '')
+            .replace(/<[^>]*>?/gm, ' ')
+            .replace(/\s\s+/g, ' ')
+            .trim();
+
+          const snippet = rawDescription.length > 20 
+            ? rawDescription 
+            : `${item.title}. Watch the full video coverage, highlights, and discussions directly on YouTube.`;
+
+          card.innerHTML = `
+            ${media ? `
+              <div class="card-thumb-container">
+                <img src="${media.url}" class="card-thumb" alt="Video Screenshot" loading="lazy" onerror="this.parentElement.style.display='none'"/>
+                ${media.isYouTube ? '<span class="video-play-tag">▶ YouTube Video / Short</span>' : ''}
+              </div>
+            ` : ''}
+            <div class="card-body">
+              <div class="card-meta">
+                <span class="badge">${item.author || 'YouTube / Media'}</span>
+                <span>${new Date(item.pubDate).toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute:'2-digit' })}</span>
+              </div>
+              <h2 class="card-title">${item.title}</h2>
+              <p class="card-snippet">${snippet}</p>
+              <div class="card-actions">
+                <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: #f87171; text-decoration: none; font-weight: 600;">Open on YouTube / Web ↗</a>
+                <button class="read-btn" onclick="markAsReadAndNext('${item.link.replace(/'/g, "\\'")}', ${index})">
+                  ✓ Mark Read & Next
+                </button>
+              </div>
+            </div>
+          `;
+          container.appendChild(card);
+        });
+      } catch (err) {
+        container.innerHTML = `<div style="text-align: center; color: #ef4444; padding: 40px;">Failed to fetch feed. Please check connection and try again.</div>`;
+      }
+    }
+
+    function markAsReadAndNext(link, currentIndex) {
+      readArticles.add(link);
+      localStorage.setItem('read_articles', JSON.stringify([...readArticles]));
+
+      const currentCard = document.getElementById(`card-${currentIndex}`);
+      if (currentCard) {
+        currentCard.classList.add('read');
+      }
+
+      const nextCard = document.getElementById(`card-${currentIndex + 1}`);
+      if (nextCard) {
+        nextCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    function refreshFeeds() {
+      loadFeedForActiveCategory();
+    }
+
+    function openAddModal() {
+      document.getElementById('addModal').style.display = 'flex';
+    }
+    function closeAddModal() {
+      document.getElementById('addModal').style.display = 'none';
+    }
+    function addNewCategory() {
+      const name = document.getElementById('catLabel').value.trim();
+      let query = document.getElementById('catQuery').value.trim();
+
+      if (!name || !query) return alert('Please enter both category name and search query.');
+
+      // Automatically append YouTube focus and 3-day restriction if missing
+      if (!query.toLowerCase().includes('site:youtube.com')) {
+        query = `site:youtube.com (watch OR shorts) ${query}`;
+      }
+      if (!query.includes('when:')) {
+        query += ' when:3d';
+      }
+
+      const newCat = {
+        id: 'cat_' + Date.now(),
+        name: name,
+        query: query
+      };
+
+      categories.push(newCat);
+      localStorage.setItem('saved_categories_yt', JSON.stringify(categories));
+      activeCategoryId = newCat.id;
+
+      document.getElementById('catLabel').value = '';
+      document.getElementById('catQuery').value = '';
+      closeAddModal();
+
+      renderCategoryTabs();
+      loadFeedForActiveCategory();
+    }
+
+    // Initial render
+    renderCategoryTabs();
+    loadFeedForActiveCategory();
+  </script>
+</body>
+</html>
