@@ -1,114 +1,114 @@
 **Chennai / Tamil Nadu Condensed News Update**
-**Generated: 2026-11-21 18:45 IST**
-**Coverage: Last 12-24 hours (approx. Nov 20 evening – Nov 21 evening)**
+**Generated: 2026-11-22 06:15 IST**
+**Coverage: Last 12-24 hours (approx. Nov 21 morning – Nov 22 early morning)**
 
 ---
 
 **a. Schools and Colleges** (include AI/education technology)
 
-1. **Tamil Nadu government schools launch 2026-27 admissions**
-   School Education Minister Anbil Mahesh Poyyamozhi inaugurated the enrolment drive in Chennai (Saidapet), admitting Class 1 students and distributing welfare kits. The state aims for 5 lakh new enrolments; Anganwadi linkages emphasised.
+1. **Respiratory infections surge among Chennai schoolchildren**
+   Hospitals report full wards and ICUs as viral respiratory infections (influenza A/B, RSV in infants) cause more absences. Paediatricians note most recover but some infants need intensive care; flu and dengue also circulating.
+   Source: https://timesofindia.indiatimes.com/city/chennai/respiratory-infections-empty-classrooms-benches-fill-hospital-beds/articleshow/136060542.cms
+
+2. **TN model schools using premium AI (Claude, Gemini) for student tracking**
+   38 government model schools (one per district) paying up to ₹1 lakh/year for AI tools. Teachers at Saidapet Centre for Academic Excellence generate performance dashboards and practice questions; tablets available after hours.
+   Sources: https://timesofindia.indiatimes.com/city/chennai/model-schools-turn-to-premium-ai-models-to-teach-students-better/articleshow/135839670.cms | https://digitallearning.eletsonline.com/2026/11/tamil-nadu-model-schools-ai/
+
+3. **No school holiday announced for Sunday Nov 22 or Monday Nov 23**
+   Schools closed today (Sunday). No rain-related or other holiday declared for Monday; institutions expected to function normally. Monitor district Collector/CEO circulars as rain builds.
+
+4. **TN SCERT training teachers on AI tools for classroom content**
+   Postgraduate teachers (Physics, Chemistry, Maths) trained to create animated videos, audio, images and interactive games using Claude, ChatGPT and Google tools. Shift from state-made videos to teacher-generated materials.
+   Source: https://www.bweducation.com/article/tamil-nadu-trains-government-school-teachers-to-use-ai-tools-in-classrooms-630993
+
+5. **Government school admissions for 2026-27 continue**
+   Early enrolment drive (started March) ongoing across TN government schools to boost numbers; welfare kits distributed at launch events.
    Source: https://www.livechennai.com/detailnews.asp?catid=40&newsid=78690&nav=p
-
-2. **Cognizant opens Phase 1 of Immersive Learning Center in Chennai**
-   165,000 sq ft facility at Siruseri with 58 classrooms (1,822 seats). Targets 5,000 Frontier Certified Engineers and 10,000 Business Operators for AI skills.
-   Sources: https://www.peoplematters.in/news/ai-and-emerging-tech/cognizant-unveils-immersive-learning-center-in-chennai-to-build-ai-skills-at-scale-53457 | https://www.moneycontrol.com/artificial-intelligence/cognizant-opens-chennai-training-centre-targets-15-000-ai-certified-employees-article-14085042.html
-
-3. **TN model schools adopt premium AI tools (Claude, Gemini)**
-   38 model schools using paid AI for performance dashboards, remedial teaching and question generation. Headmasters spending up to ₹1 lakh/year; tablets for after-class use.
-   Source: https://timesofindia.indiatimes.com/city/chennai/model-schools-turn-to-premium-ai-models-to-teach-students-better/articleshow/135839670.cms
-
-4. **Bodhan AI (IIT Madras) to train one million teachers**
-   Partnerships for nationwide AI literacy and classroom integration for teachers.
-   Source: https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-teachers-in-ai-literacy-across-india/article71712926.ece
-
-5. **Compulsory physical education for Classes 6-12**
-   School Education Department directs all schools to conduct regular PE periods; monitoring of playground usage.
-   Source: https://www.bweducation.com/article/tamil-nadu-mandates-pe-610049
-
-6. **No rain-related school holiday today**
-   Schools functioning normally on Nov 21 under dry weather. Monitor local circulars for any changes.
 
 ---
 
 **b. Chennai / Tamil Nadu Politics**
 
-1. **Electoral roll special camps in Chennai (Nov 21, 22, 29)**
-   Camps at all polling stations (10 am–5 pm) for inclusions, deletions, corrections. Draft rolls published Nov 12.
+1. **All eyes on vacant Kolathur seat after VS Babu’s death**
+   TVK MLA VS Babu (who defeated MK Stalin in 2026) died Nov 19; CM Vijay joined funeral procession as pallbearer and walked barefoot ~2.3 km. By-election expected; seat now vacant amid six pending bypolls.
+   Sources: https://www.dtnext.in/ | https://www.nationpress.com/national/cm-vijay-joins-kolathur-mla-funeral
+
+2. **CM Vijay ignores fishers’ concerns: DMK president MK Stalin**
+   Opposition criticism of the TVK government on coastal issues continues.
+   Source: https://www.dtnext.in/
+
+3. **Electoral roll special camps ongoing in Chennai (Nov 21-22, 29)**
+   Camps at all 16 Assembly constituencies (10 am–5 pm) for inclusions, deletions and corrections after draft rolls published Nov 12.
    Source: https://www.dtnext.in/news/chennai/election-commission-to-hold-voter-roll-revision-in-chennai-on-november-21
 
-2. **Vice President C.P. Radhakrishnan visits Chennai; traffic diversions**
-   Zero-traffic zones and diversions for heavy vehicles on Nov 21–22 for the VP’s programmes.
-   Source: https://www.tv9tamilnews.com/tamil-nadu/vice-presidents-chennai-visit-traffic-diversions-announced-for-november-21-and-22-check-route-changes-121773.html
+4. **Deepathoon Row: TN seeks legal advice on SC verdict**
+   State reviewing Supreme Court decision on Thiruparankundram hill lamp lighting; decision expected soon.
+   Source: https://www.dtnext.in/
 
-3. **TVK MLA V.S. Babu (Kolathur) death; by-elections pending**
-   Babu, who defeated M.K. Stalin in Kolathur (2026), died Nov 19 after respiratory illness. Six Assembly vacancies now; bypolls expected.
-   Sources: https://www.thehindu.com/news/national/tamil-nadu/tvk-mla-vs-babu-who-defeated-mk-stalin-in-kolathur-passes-away/article71719587.ece
-
-4. **Madras HC questions scrapping of Parandur airport**
-   Court issues notices on PIL challenging abandonment of ₹27,000+ crore greenfield project after land acquisition (~1,700 acres, ₹680 crore spent). AG cites waterbody/environmental clearance issues.
-   Source: https://www.thehindu.com/news/national/tamil-nadu/parandur-airport-project-abandoned-over-concerns-about-environmental-clearance-a-g-tells-madras-high-court/article71723292.ece
-
-5. **TANGEDCO scheduled power cuts on Nov 21**
-   Maintenance outages (approx. 10 am–3 pm) in Perungalathur, Parivakkam and listed streets.
-   Source: https://www.thedailyjagran.com/india/news/chennai-power-cut-on-november-21-tangedco-announces-shutdown-on-saturday-check-list-of-affected-areas-timings-10336947
+5. **112 MoUs signed in TVK government’s first 6 months**
+   Reported progress on investment and governance under the new administration.
+   Source: https://www.dtnext.in/
 
 ---
 
 **c. Weather in India / Chennai**
 
-1. **Chennai today (Nov 21): Mostly clear to partly cloudy, dry**
-   Current ~28°C, max ~33°C / min ~24°C. Humidity 60–80%. No significant rainfall today.
-   Sources: IMD / local forecasts
+1. **Chennai today (Sunday Nov 22): Misty start, light rain possible, max ~32°C**
+   Current ~24°C, mostly cloudy, humidity high (~90%). Partly cloudy skies; light rain at isolated places. No heavy rain today.
+   Sources: IMD RMC Chennai / local forecasts
 
-2. **Chennai AQI poor/unhealthy (around 180–241)**
-   Average reached ~241 on Nov 20 (poor). Stations like Manali higher. TNPCB monitoring; graded response under review if sustained.
-   Sources: https://www.newindianexpress.com/cities/chennai/2026/Nov/21/chennais-air-quality-drops-to-poor-as-aqi-touches-241 | AQI trackers
+2. **Rain builds from Monday; yellow alert for heavy rain on Tuesday Nov 24**
+   Moderate rain likely Nov 23–26 in Chennai, Tiruvallur, Chengalpattu and coastal districts. Isolated heavy falls possible Nov 24 (Karthigai Deepam day) with thunderstorms. Easterly waves bringing moisture.
+   Sources: https://timesofindia.indiatimes.com/city/chennai/easterly-winds-monsoon-rains-may-return-today/articleshow/136060629.cms | IMD district forecast
 
-3. **Rain possible from Nov 22 onwards**
-   Moderate rain likely in Chennai and coastal districts from Nov 22; isolated heavier falls possible later in the week.
-   Sources: RMC Chennai / IMD
+3. **Mist and shallow fog persisting in TN; improving later**
+   Fog reported in several areas; expected to ease as northeasterly winds strengthen from Nov 23.
+   Source: https://www.dtnext.in/
 
-4. **Cyclone Akvan impact reduced**
-   System weakened further north; no major direct effect on Tamil Nadu today.
+4. **Chennai AQI remains poor/unhealthy in places**
+   Recent readings around 164–241; unfavourable conditions noted by TNPCB. Monitor local levels.
 
 ---
 
 **d. Current / trending on X and high-readership social platforms**
 
-1. **Anirudh Ravichander–Kavya Maran wedding reception**
-   High activity around the ITC Grand Chola reception; celebrity arrivals (including from Hyderabad).
+1. **CM Vijay and Kolathur / VS Babu funeral**
+   High engagement around CM’s barefoot pallbearer gesture and tributes; political discussion on vacancy.
 
-2. **Vice President visit and traffic**
-   Local posts on diversions and programmes.
+2. **Sports and football: Arsenal, Real Madrid, Mbappe, Trent**
+   Major European football action dominating India/Chennai trends.
 
-3. **VS Babu death and politics**
-   Continued tributes and discussion on Kolathur vacancy/by-election implications.
+3. **JUSTICE FOR SAMIKSHA / STOP DEFENDING CHEATER DSA**
+   Local social justice / personal story trends with significant posts.
 
-4. **Air quality and weather**
-   Posts noting poor AQI and dry conditions with rain outlook.
+4. **#UFCQatar and combat sports**
+   Event-related discussion trending.
 
-5. **Local civic: power cuts, infrastructure**
-   Resident updates on outages and city issues.
+5. **Local politics and weather posts**
+   Continued TVK/DMK commentary and rain outlook shares from Chennai weather accounts.
 
 ---
 
 **e. AI-related and Technology news** (India focus, education, infrastructure)
 
-1. **Cognizant Immersive Learning Center, Chennai** (detailed above)
-   Major local AI skills infrastructure at Siruseri.
+1. **NIELIT inaugurates India’s first AI & Quantum University transit campus in Guntur, AP**
+   Transit campus at Acharya Nagarjuna University opened Nov 21 under ₹730.70 crore MeitY grant. Courses in quantum computing, AI, VLSI start Dec 1; permanent campus planned in Amaravati as “Quantum Valley”.
+   Sources: https://www.thehindu.com/news/national/andhra-pradesh/indias-first-ai-quantum-university-campus-inagurated-in-guntur-of-andhra-pradesh/article71728573.ece | https://casrai.org/news/nielit-amaravati-india-first-quantum-ai-university-campus-2026
 
-2. **IIT Madras Bodhan AI teacher training**
-   Scaling AI literacy to one million teachers nationwide.
+2. **Google commits $5 million to IIT Kharagpur for AI research**
+   Funding supports research in Indic languages, agriculture, materials science, education and campus AI infrastructure. Announced during Platinum Jubilee; Sundar Pichai (alumnus) involved.
+   Source: https://dailypioneer.com/india/google-commits-5-million-to-iit-kharagpur-for-ai-research-and-campus-infrastructure
 
-3. **Accenture + Google Cloud AI labs for 1,000 campuses**
-   Gemini-powered labs in schools and CoEs in colleges with certifications.
+3. **Accenture + Google Cloud planning AI labs in 1,000 Indian schools & colleges**
+   Gemini-powered AI Labs in schools and Centres of Excellence in higher education with certifications in generative/agentic AI.
+   Sources: https://www.edexlive.com/news/accenture-google-cloud-plan-ai-labs-and-centres-across-1000-indian-schools-and-colleges | related announcements
 
-4. **Google / MSDE AI-enabled university initiative**
-   MoU for India’s first AI-led state university; related grants for education platforms.
+4. **Frontier tech (iDream Education) reaches 3.3 million children with AI personalised learning**
+   Offline-first, multilingual adaptive platform in government schools across 23 states; focus on rural/underserved areas with limited connectivity.
+   Source: https://frontiertech.niti.gov.in/story/how-a-frontier-technology-is-taking-ai-powered-learning-to-millions-of-children/
 
-5. **TN model schools premium AI adoption**
-   Classroom use of Claude/Gemini for analytics and content.
+5. **TN model schools and teacher AI training continue expansion**
+   Paid Claude/Gemini use for analytics + SCERT-led content creation training building on earlier AI self-learning pilots in 500 schools.
 
 ---
 
