@@ -1,119 +1,114 @@
 **Chennai / Tamil Nadu Condensed News Update**
-**Generated: 2026-11-24 18:07 IST**
-**Coverage: Last 12-24 hours (approx. Nov 23 afternoon – Nov 24 evening)**
+**Generated: 2026-11-25 06:11 IST**
+**Coverage: Last 12-24 hours (approx. Nov 24 afternoon – Nov 25 morning)**
 
 ---
 
 **a. Schools and Colleges** (include AI/education technology)
 
-1. **TN SCERT launches training of 2,000 teachers in AI and ICT tools**
-   Five-day residential programme in Chennai for 152 maths and science resource persons inaugurated by School Education Minister Rajmohan. Focus on teaching aids, real-life examples, adaptive learning, AI-assisted content and digital ethics. These teachers will train others statewide; new textbooks for Classes 6-8 next year.
-   Sources: https://education.economictimes.indiatimes.com/news/industry/tamil-nadu-to-train-2000-teachers-in-ai-ict-based-teaching-methods/136118299 | https://timesofindia.indiatimes.com/city/chennai/scert-trains-over-150-teachers-in-ict-tools-in-city/articleshow/136112299.cms | https://newstodaynet.com/2026/11/24/tn-trains-2000-teachers-in-ai/
+1. **TN SCERT trains 152 teachers as resource persons in AI and ICT tools**
+   Five-day residential programme underway in Chennai for 76 maths and 76 science teachers from Classes 6-10. Inaugurated by School Education Minister Rajmohan. Focus on teaching aids, real-life examples, adaptive learning systems, AI-assisted content generation and digital ethics. These resource persons will cascade training to around 2,000 teachers statewide; aligns with new textbooks for Classes 6-8 next year.
+   Sources: https://timesofindia.indiatimes.com/city/chennai/scert-trains-over-150-teachers-in-ict-tools-in-city/articleshow/136112299.cms | https://newstodaynet.com/2026/11/24/tn-trains-2000-teachers-in-ai/
 
-2. **No rain-related school holiday announced for Chennai on Nov 24**
-   IMD forecasts moderate rain/thunderstorms for Chennai. No confirmed Collector order for closures as of afternoon; parents advised to check local notices. Tiruvannamalai has local holiday for Karthigai Deepam.
-   Sources: https://chennaites.com/today/ | Economic Times checks | IMD
+2. **No rain-related school holiday announced for Chennai on November 25**
+   IMD forecasts moderate rain and thunderstorms for the city. No confirmed district Collector order for closures as of early morning. Parents advised to monitor local school and administration notices before the school run. Previous day (Nov 24) also had no city-wide rain holiday.
+   Sources: Local checks, IMD forecasts, chennaites.com
 
 3. **Cognizant Immersive Learning Center Phase 1 operational in Chennai Siruseri**
-   165,000 sq ft facility with 58 classrooms (1,822 seats) for scaling AI skills. Targeting 15,000 Frontier-certified employees.
-   Sources: Multiple reports from Nov 19-20
+   165,000 sq ft facility with 58 classrooms and over 1,800 learning seats aimed at building AI-ready workforce and Frontier-certified talent.
+   Sources: Company announcements and reports from mid-November
 
-4. **TN model schools using premium AI tools (Claude, Gemini)**
-   Up to ₹1 lakh/year subscriptions for dashboards, practice questions and remedial teaching at places like Saidapet CoAE. Tablets for after-hours entrance-exam prep across 38 model schools.
-   Source: https://timesofindia.indiatimes.com/city/chennai/model-schools-turn-to-premium-ai-models-to-teach-students-better/articleshow/135839670.cms
-
-5. **IIT Madras Bodhan AI partnering to train 1 million teachers nationwide**
-   With Learning Links Foundation, Vidya Shakti and CENTA for practical AI in lesson planning, assessment and classroom use.
-   Source: https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-teachers-in-ai-literacy-across-india/article71712926.ece
+4. **TN model schools continuing use of premium AI tools**
+   Platforms like Claude and Gemini used for performance dashboards, practice questions and remedial teaching at pilot sites such as Saidapet CoAE. Tablets available for after-hours entrance exam preparation across district model schools.
+   Source: Earlier Times of India reporting
 
 ---
 
 **b. Chennai / Tamil Nadu Politics**
 
-1. **Thiruparankundram Karthigai Deepam: SC one-time nod; heavy security; lamp lit**
-   Supreme Court allowed restricted team to light lamp at Deepathoon (near dargah) on Nov 24 as one-time measure. TN filed review petition. Area declared red zone, 5,600+ cops deployed, drone ban. Maha Deepam lit at traditional spots including Tiruvannamalai and Thiruparankundram.
-   Sources: https://www.thehindu.com/news/national/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece | https://timesofindia.indiatimes.com/city/madurai/thiruparankundram-karthigai-deepam-row-supreme-courts-one-time-nod-for-lighting-lamp-at-deepathoon-tamil-nadus-review-petition-5600-cops-on-guard-all-you-need-to-know/articleshow/136127921.cms | ANI
+1. **CM Vijay assures alliance MLAs of L&O improvements in 3-4 months**
+   Closed-door meetings held at camp office on Greenways Road with legislators from Congress, VCK, IUML and Left parties. Discussions covered women’s safety, administrative issues and the Kallakurichi MLA controversy. Vijay said action was ongoing and situation would improve gradually.
+   Source: https://timesofindia.indiatimes.com/city/chennai/lo-issues-will-be-addressed-in-3-months-vijay-tells-mlas-of-alliance-parties/articleshow/136112651.cms | News Today
 
-2. **FIR against Kallakurichi TVK MLA Arul Vignesh on Collector’s complaint**
-   Woman District Collector filed complaint alleging inappropriate messages/advances. Police registered case under TN Prohibition of Harassment of Women Act and other sections. Madras HC informed of FIR; opposition (DMK, AIADMK) demand action. CM Vijay earlier assured alliance MLAs of examining facts.
-   Sources: https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece | https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/24/tn-police-register-case-against-tvk-mla-over-obscene-messages-to-kallakurichi-collector | Hindustan Times
+2. **Thiruparankundram Karthigai Deepam: Lamp lit at customary spot, not Deepathoon**
+   Despite Supreme Court one-time interim order to light the lamp at the disputed Deepathoon pillar, the ritual was performed at the traditional Uchipillayar Mandapam amid heavy security and political tension. State had filed review petition. High drama and protests reported; area under tight police deployment.
+   Sources: India Today, New Indian Express, ANI updates from Nov 24
 
-3. **CM Vijay assures alliance MLAs on law & order improvements**
-   Meeting at camp office; promised issues including women’s safety and Kallakurichi matter to be addressed in 3-4 months. First major interaction with allies since TVK took power.
-   Source: https://timesofindia.indiatimes.com/city/chennai/lo-issues-will-be-addressed-in-3-months-vijay-tells-mlas-of-alliance-parties/articleshow/136112651.cms
+3. **Kallakurichi TVK MLA Arul Vignesh controversy continues**
+   Allegations of inappropriate messages to woman District Collector led to complaint and police case. Opposition parties demanding action; CM had earlier indicated inquiry would examine facts.
+   Sources: Multiple reports linked to alliance meeting
 
-4. **BJP leaders detained amid Deepam protests; HC on prohibitory orders**
-   Security measures in Madurai; HC asked to reconsider some orders. Festival observed with high alert.
-   Sources: Oneindia | DT Next | Siasat
-
-5. **Ongoing by-election preparations and internal party dynamics**
-   Vacancies including Kolathur after VS Babu’s death; AIADMK internal tensions reported.
-   Sources: Various
+4. **Ongoing internal dynamics in opposition parties**
+   Reports of tensions within AIADMK amid post-election performance and leadership questions. By-election preparations for vacant seats continuing in background.
+   Sources: Local political coverage
 
 ---
 
 **c. Weather in India / Chennai**
 
-1. **Yellow alert: Heavy rain likely in 9-14 TN districts; moderate in Chennai**
-   IMD: Fairly widespread to widespread rain Nov 24-26 with isolated heavy showers, thunderstorms, lightning, gusty winds 40-50 kmph (up to 60). Chennai: generally cloudy, moderate rain/thunder in some areas. Temp ~25-31°C.
-   Sources: https://www.theweek.in/news/india/2026/11/24/tamil-nadu-weather-update-flash-flood-risk-in-chennai-imd-issues-heavy-rain-alert-in-nine-districts.html | RMC Chennai | https://timesofindia.indiatimes.com/city/chennai/easterly-trough-may-bring-last-significant-nov-rain-to-the-city/articleshow/136112298.cms
+1. **Chennai: Current drizzle, rain expected today with high chance**
+   As of early morning, drizzle conditions, temperature around 25°C, high humidity (~95%). Forecast for Wednesday Nov 25: Rain, max ~29°C, min ~25°C, precipitation chance ~94%, expected amount around 8mm. Thunderstorms possible in some areas.
+   Source: Weather forecast models, IMD guidance
 
-2. **Current Chennai conditions: Cloudy, ~27°C, high humidity, rain probability high**
-   Precipitation expected; waterlogging risk in south/central areas like Velachery, Adyar, T Nagar. Carry umbrella.
-   Source: Weather forecast models & IMD
+2. **South Tamil Nadu seeing heavier rainfall; Chennai activity moderating**
+   Trough in easterlies favouring south coastal and delta districts for widespread rains, with some heavy/very heavy falls. North coastal TN including Chennai and suburbs expected to see reduced rainfall activity over the next 3-4 days.
+   Source: Local weather accounts and IMD patterns
 
-3. **No confirmed school closures for rain in Chennai as of evening**
-   Monitor district Collector announcements. Activity may ease after Nov 26-27.
-   Source: Multiple local checks
+3. **Yellow/orange alerts earlier for several districts; monitor for waterlogging**
+   Carry umbrellas. Risk of localised flooding in low-lying areas of Chennai and suburbs. Check official IMD and RMC Chennai bulletins for updates.
+   Source: IMD, local reports
 
-4. **Low-pressure / easterly trough driving moisture**
-   Affecting coastal and delta districts more heavily today.
-   Source: IMD
+4. **No major cyclone threat currently; easterly winds driving moisture**
+   November typically wettest month for Chennai; this spell helping address rainfall deficit in some areas.
+   Source: Meteorological updates
 
 ---
 
 **d. Current / trending on X and high-readership social platforms**
 
-1. **#ThiruparankundramDeepam / Karthigai Deepam dominating Chennai trends**
-   Discussions on SC order, security, lighting of Maha Deepam, political reactions from BJP, TVK, others. Videos of lamp lighting circulating.
-   Source: trends24.in / X keyword search
+1. **Thiruparankundram Deepam / Karthigai Deepam controversy dominant**
+   Intense discussion on SC order, lamp lighting location, security measures, and political reactions from various parties. Videos and opinions circulating widely.
+   Source: X trends and keyword activity
 
-2. **Kallakurichi MLA Arul Vignesh / Collector complaint trending politically**
-   Calls for action, opposition criticism of TVK government, legal updates shared widely.
-   Source: X posts & news shares
+2. **CM Vijay and TVK government performance under scrutiny**
+   Posts on alliance meetings, L&O assurances, and opposition criticism regarding the Deepam issue and MLA controversies.
+   Source: X posts from Nov 24-25
 
-3. **Jensen Huang / Nvidia and AI hardware still high engagement**
-   Global tech news intersecting with India AI investments.
-   Source: India trends
+3. **Chennai and TN rains / weather updates widely shared**
+   Local nowcasts, radar images, and advisories from accounts like ChennaiRains and weather enthusiasts.
+   Source: X
 
-4. **Chennai rains and IMD alerts widely posted**
-   Local nowcasts, videos of wet roads, festival-weather mix.
-   Source: Local accounts
+4. **Cricket and celebrity trends: Vaibhav Sooryavanshi, Ben Stokes**
+   Young cricketer and international sports personalities appearing in India/Chennai trends alongside festival and political topics.
+   Source: trends24.in, X trend trackers
 
-5. **Festival cultural posts mixed with political debate**
-   Karthigai Deepam wishes alongside the hill controversy.
+5. **Other local notes: Vegetable price rises at Koyambedu**
+   Drumstick up Rs 40/kg, tomatoes up Rs 20/kg on Nov 24 compared to earlier rates. Gold rates also fluctuated.
+   Source: DT Next, market reports
 
 ---
 
 **e. AI-related and Technology news** (India focus, education, infrastructure)
 
-1. **L&T / Vyoma.AI (LTN Compute) bags large order (₹2,500-5,000 cr) for more NVIDIA B300 GPUs in Chennai**
-   Multi-year engagement for inference infrastructure at Chennai campus (part of 10,000-GPU cluster, Phase 1 250 MW). Second major AI order after August Together AI mega order. Strengthens Chennai as AI compute hub.
-   Sources: https://www.business-standard.com/companies/news/l-t-bags-large-order-worth-5-000-crore-to-deploy-ai-cluster-in-chennai-126112300275_1.html | CNBC TV18 | Economic Times
+1. **L&T / Vyoma.AI (LTN Compute) secures large order for additional NVIDIA B300 GPUs in Chennai**
+   Multi-year engagement worth up to ₹5,000 crore for more GPUs at Chennai AI factory campus (part of broader 10,000-GPU cluster, Phase 1 ~250 MW). Strengthens Chennai as major AI compute hub for inference and training.
+   Sources: Business Standard, CNBC TV18, company filings from Nov 23
 
-2. **TN SCERT AI/ICT teacher training (see a) as major local education tech push**
-   2,000 teachers targeted; builds on earlier AI self-learning in 500 schools.
+2. **Google launches Momentum initiative to support Indian AI startups**
+   Provides technology, AI resources (including Gemini models) and infrastructure access. Examples include efficiency gains reported by healthcare and legal-tech startups.
+   Source: TechGig and Google announcements
 
-3. **Google $5M to IIT Kharagpur for AI research in Indic languages, agri, edtech**
-   Supports capacity building and campus infrastructure.
-   Source: Multiple Nov 21 reports
+3. **India AI governance consultation paper in preparation**
+   MeitY focusing on safety, skilling, inclusivity and risk mitigation. Approach leans towards sectoral tailoring rather than a single rigid law; discussions on liability frameworks and safety institute ongoing.
+   Source: Economic Times, NDTV reports
 
-4. **Accenture + Google Cloud AI labs planned for 1,000 Indian schools & colleges**
-   Gemini-powered labs, Centres of Excellence, certifications in generative/agentic AI.
-   Source: https://www.edexlive.com/news/accenture-google-cloud-plan-ai-labs-and-centres-across-1000-indian-schools-and-colleges
+4. **SCERT AI/ICT teacher training as key local education tech development**
+   Builds on earlier AI self-learning programmes in hundreds of government schools. Aims to make foundational subjects more engaging.
+   (See section a)
 
-5. **Broader India AI education initiatives continuing**
-   Including MSDE-Google AI university plans, ShikshaNext multi-partner edtech, IndiaAI Mission GPU access.
+5. **Broader IndiaAI Mission progress continues**
+   Shared compute capacity expanded, indigenous model development underway, semiconductor and infrastructure investments supporting ecosystem.
+   Source: Multiple policy updates
 
 ---
 
