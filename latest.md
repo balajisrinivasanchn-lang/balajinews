@@ -1,111 +1,110 @@
 **Chennai / Tamil Nadu Condensed News Update**
-**Generated: 2026-11-25 18:07 IST**
-**Coverage: Last 12-24 hours (approx. Nov 24 afternoon – Nov 25 evening)**
+**Generated: 2026-11-26 06:11 IST**
+**Coverage: Last 12-24 hours (approx. Nov 25 afternoon – Nov 26 early morning)**
 
 ---
 
 **a. Schools and Colleges** (include AI/education technology)
 
-1. **IT campus hiring in Tamil Nadu dips up to 20% as AI reshapes entry-level roles**
-   Fresher recruitment in software and product roles at colleges like Anna University has fallen (e.g., ~498 to 416 placements year-on-year). Companies prioritise skills beyond basic coding; AI tools handling routine tasks. Higher education minister notes colleges forming industry advisory boards.
-   Sources: Times of India / WeRIndia, Tamil media reports Nov 25
+1. **No statewide or Chennai school holiday confirmed for Nov 26 amid moderate rain risk**
+   Schools expected to follow regular schedule. No Collector order announced for closures in Chennai or neighbouring districts despite thunderstorm and light-to-moderate rain forecasts. Parents advised to monitor school circulars and district updates; Nov 28 remains a working Saturday.
+   Sources: Academic calendar references, IMD guidance, local checks.
 
-2. **No statewide school holiday on November 25; monitor rain**
-   Tamil Nadu schools open on regular schedule. No confirmed Collector order for Chennai closures despite moderate rain and thunderstorm risk. Parents advised to check school/district notices. Nov 28 is a working Saturday.
-   Sources: Jagran Josh state-wise list, IMD forecasts, local checks
+2. **SCERT continues AI/ICT teacher training for Classes 6-10 and higher secondary**
+   Over 150 teachers (maths and science) in ongoing residential programme in Chennai; resource persons to cascade training statewide. Focus on using AI tools for experiments, quizzes (Gimkit), digital resources and prompt engineering. Builds on earlier PG teacher training for Physics/Chemistry/Maths.
+   Source: Times of India, Nov 24 updates.
 
-3. **IIT Madras Bodhan AI continues teacher AI literacy push**
-   Incubated centre partners to train 1 million teachers nationwide on AI for lesson planning, assessment and personalised learning. Custom tools already used in TN schools; EduReach platform supports low-infrastructure digital learning.
-   Sources: DT Next, The Hindu, EdexLive (recent weeks, ongoing)
+3. **Knowledge City infrastructure works underway in Tiruvallur (phase one)**
+   Industries Minister S. Keerthana stated at India Global Education Summit 2027 curtain-raiser that works on the 872-acre Knowledge City (near Chennai) are progressing. Plot allocation targeted by April 2027; Knowledge Tower (plug-and-play for foreign universities) expected later. Institutions including University of Melbourne and IIT Madras engaged; five MoUs already signed.
+   Source: The Hindu, Nov 26.
 
-4. **TVK educational awards phase 2 on Nov 26-27 in Chennai**
-   Second phase of student awards and financial assistance for top Class 10/12 students from western and central districts at Neelankarai auditorium.
-   Source: News Today
+4. **Model schools continue using premium AI tools (Claude, Gemini) for student tracking**
+   Headmasters at places like Saidapet CoAE investing in subscriptions for performance dashboards, remedial teaching and competitive-exam support. Shared across 38 district model schools.
+   Source: Times of India / Elets (ongoing from mid-Nov).
 
-5. **Tamil Nadu Day competitions for school students ongoing**
-   Special speech and other contests announced earlier for students and public; submissions open until early December.
-   Source: Samayam Tamil
+5. **Cognizant Immersive Learning Center Phase-1 operational at Siruseri campus**
+   165,000 sq ft facility with 58 classrooms (1,822 seats) launched recently to scale AI skills for global workforce. Targets Frontier-certified engineers and operators.
+   Source: Company announcements / BusinessLine, Nov 19-20.
 
 ---
 
 **b. Chennai / Tamil Nadu Politics**
 
-1. **Thirupparankundram Deepathoon row: SC to hear pleas in 1-2 days; TN apologises and blames temple trustees**
-   Lamp lit only at traditional Uchipillayar spot on Nov 24 despite SC one-time order for Deepathoon. State filed status report apologising and citing temple administration refusal. SC refused suo motu contempt but will list applications/contempt if filed. Protests and BJP criticism continue.
-   Sources: DT Next, CNBC TV18, India Today, The Hindu, Indian Express Nov 25
+1. **Police serve summons on TVK MLA Arul Vignesh in Kallakurichi harassment case**
+   All Women Police visited residence on Nov 25 and served summons. FIR registered after woman IAS officer’s complaint of inappropriate messages/advances. Tiruppur SP leading probe under IG supervision; ICC headed by ACS Kakarla Usha formed per Madras HC direction. Next hearing Nov 27; MLA denies allegations.
+   Sources: The Hindu, Indian Express, New Indian Express, Nov 25-26.
 
-2. **Police serve summons on TVK MLA Arul Vignesh in Kallakurichi harassment case**
-   Inspector served summons at residence. Collector complaint over alleged inappropriate messages to woman IAS officer; opposition (including DMK, CPI) demand action/arrest. DGP assures fair probe.
-   Sources: DT Next, Oneindia, PTI Nov 25
+2. **Thirupparankundram Deepathoon row: TN apologises to SC, blames temple board**
+   Lamp lit only at customary Uchipillayar/Deepa Mandapam spot on Nov 24 despite SC one-time order for Deepathoon. Madurai Collector’s status report apologises and cites Board of Trustees resolution. SC to hear contempt/related pleas; high security and protests noted earlier.
+   Sources: Indian Express, India Today, LiveLaw, Hindustan Times, Nov 25.
 
-3. **Union Cabinet approves ₹4,288 crore second container terminal at Kamarajar Port (Ennore)**
-   900-metre terminal, 2 million TEU capacity in two phases under PPP/DBFOT. Strengthens east-coast logistics.
-   Sources: The Hindu BusinessLine, Statesman, PTI Nov 25
+3. **CM Vijay’s VETTRI Investment Conclave: 78 MoUs worth ₹58,214 crore**
+   Signed Nov 25 near Kovalam/Chengalpattu. Potential 65,786 jobs. Takes total under TVK government to ~₹1.73 lakh crore / 190 MoUs / ~1.99 lakh jobs in ~200 days. Key sectors: automotive, renewables, electronics, logistics, aerospace. Foundation stones laid for 15 projects.
+   Sources: Business Standard, The Hindu, DT Next, Deccan Herald, Nov 25.
 
-4. **CM Vijay / TVK government under continued political pressure**
-   Alliance meetings and L&O assurances earlier; Deepam and MLA issues drawing opposition fire from BJP, DMK and others.
-   Sources: Multiple reports and X discussion
+4. **Union Cabinet approves ₹4,288 crore second container terminal at Kamarajar Port (Ennore)**
+   PPP/DBFOT mode; 900-metre terminal, 2 million TEU capacity in two phases. Handles larger vessels; supports east-coast and Chennai-Ennore cargo.
+   Sources: Hindu BusinessLine, Business Standard, Statesman, Nov 25.
 
 ---
 
 **c. Weather in India / Chennai**
 
-1. **Chennai: Cloudy, ~28°C now; rain likely today (high chance)**
-   Current conditions cloudy/humid. Forecast for Nov 25: Rain, max 31°C, min 26°C, ~95% precipitation chance, ~9 mm expected. Thunderstorms possible in parts.
-   Source: Weather models / IMD guidance
+1. **Chennai: Light to moderate rain with thunderstorms likely today (Nov 26) through Nov 28**
+   IMD RMC Chennai: Partly cloudy skies, max 31-32°C, min 25-26°C. Thunderstorm and lightning in some areas. No heavy rain expected over the city; easterly trough influence persists over north TN.
+   Sources: IMD Chennai forecast PDF, Times of India, Nov 25-26.
 
-2. **IMD: Isolated heavy rain, thunderstorms and gusty winds over TN till ~Nov 27-28**
-   Yellow alerts for several districts (delta, south, and some north). Chennai and suburbs expect moderate rain with thunder. Easterly waves driving moisture. Waterlogging risk in low-lying areas.
-   Sources: The Hindu BusinessLine, TV9 Tamil, Hans India, NDTV Nov 25
+2. **Yellow alerts / heavy rain risk in southern and some other districts on Nov 26**
+   Isolated heavy rain possible in Dindigul, Madurai, Virudhunagar, Kanyakumari and hilly parts of Theni/Tenkasi/Tirunelveli with gusty winds 40-50 kmph. Moderate rain with thunder across many districts including Chennai suburbs, Tiruvallur, Chengalpattu, Kancheepuram.
+   Sources: IMD, TV9 Tamil, ABP Tamil, Nov 25.
 
-3. **Recent falls: Injambakkam 7 cm, Pallikaranai 6 cm earlier; Salem areas higher**
-   Southern suburbs saw heavier earlier rain. Monitor RMC Chennai and IMD for nowcasts.
-   Source: Spirit of Chennai, local reports
-
-4. **No major cyclone; typical northeast monsoon activity**
-   Helps reservoirs and agriculture in some areas while requiring caution in cities.
+3. **Northeast monsoon activity continues; waterlogging caution in low-lying areas**
+   Recent light falls recorded; city has rainfall deficit for November. Monitor RMC Chennai nowcasts and local alerts.
+   Sources: IMD, local weather accounts.
 
 ---
 
 **d. Current / trending on X and high-readership social platforms**
 
-1. **Deepathoon / Karthigai Deepam controversy still dominant in TN discussions**
-   Posts on SC order non-compliance, lamp location, political blame, and calls for contempt. Videos and opinions circulating; BJP and Hindu groups critical of TVK government.
-   Source: X keyword and semantic searches Nov 24-25
+1. **Deepathoon / Karthigai Deepam controversy remains prominent in TN discussions**
+   Posts on SC order non-compliance, temple board decision, political blame on TVK government, and contempt prospects.
+   Source: X searches and news shares, Nov 25-26.
 
-2. **National/India trends include #AIAstrologerRahasyaVeda, Miss Universe, cricket (Vaibhav Sooryavanshi etc.)**
-   Festival and entertainment topics alongside politics. Local Chennai trends overlap with rain and Deepam.
-   Source: trends24.in, Endless, snaplytics Nov 25
+2. **Kallakurichi MLA harassment case draws attention**
+   Summons, FIR, HC directions and opposition demands circulating alongside political commentary.
+   Source: X and media.
 
-3. **Rain and weather updates shared widely by local accounts**
-   Nowcasts, alerts for waterlogging, and school/commute advice.
+3. **Rain and weather nowcasts shared by local accounts**
+   Brief spells and thunderstorm alerts for Chennai and districts.
+   Source: @chennairainsbot and weather handles.
 
-4. **Other notes: Vegetable prices at Koyambedu, gold rates, Metro works**
-   Mixed market movements; infrastructure updates continue.
+4. **National trends dominate broader India feeds (entertainment, sports, politics)**
+   Local overlap with investment announcements and port project.
+   Source: trends24.in / Endless aggregates.
 
 ---
 
 **e. AI-related and Technology news** (India focus, education, infrastructure)
 
-1. **AI impacting TN engineering campus placements (up to 20% drop in fresher IT roles)**
-   Entry-level coding/testing roles reduced; demand shifting to specialised AI, data and higher-skill profiles. Chennai holds ~6% of on-site AI jobs nationally.
-   Sources: Tamil Goodreturns, Indian Express, HireHire report Nov 25
+1. **Knowledge City advances as AI/education infrastructure hub near Chennai**
+   Phase-one works progressing in Tiruvallur; foreign universities and IIT Madras engaged. AI Minister R. Kumar invited investments in AI City and Knowledge City. Supports long-term talent and research ecosystem.
+   Source: The Hindu, Nov 26.
 
-2. **IIT Madras Bodhan AI / EduReach advancing AI for education**
-   Teacher training target of 1M; platforms used in thousands of TN schools for evaluations and digital content. Ongoing workshops and partnerships with NCERT and states.
-   Sources: DT Next, BW Education (recent and ongoing)
+2. **Ongoing SCERT and Bodhan AI (IIT Madras) teacher AI literacy programmes**
+   Practical tools for lesson planning, simulations, assessments and administrative tasks. Bodhan AI partnerships aim at large-scale teacher training nationwide, with TN usage.
+   Sources: The Hindu, EdexLive, recent updates.
 
-3. **Kamarajar Port container terminal approval boosts logistics infrastructure**
-   ₹4,288 crore project supports larger vessels and east-coast trade capacity.
-   (See politics section)
+3. **Cognizant Immersive Learning Center strengthens AI skilling in Chennai**
+   Large facility for instructor-led and collaborative AI learning at Siruseri. Aligns with industry need for Frontier-certified talent.
+   Source: Company releases, Nov 19-20.
 
-4. **Broader India AI hiring: Data engineers and AI engineers in demand; GenAI roles rising**
-   Bengaluru leads; Chennai present. Frontier labs and Indian IT firms hiring specialised talent.
-   Source: HireHire analysis Nov 2026
+4. **Kamarajar Port terminal approval boosts logistics infrastructure**
+   Supports container capacity near Chennai for industrial and EXIM growth.
+   (See politics section.)
 
-5. **IIT Madras CeRAI paper on AI risks to entry-level jobs**
-   Notes automation of routine tasks in software, accounting and BPO while creating new roles; stresses skilling.
-   Source: BW People (earlier reporting, relevant context)
+5. **Broader context: AI tools entering government model schools and national edtech initiatives**
+   Premium models for dashboards/remedial work; national programmes (e.g., Accenture-Google AI labs in 1,000 institutions) continue.
+   Sources: TOI, Elets (mid-to-late Nov).
 
 ---
 
