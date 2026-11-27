@@ -1,123 +1,127 @@
 **Chennai / Tamil Nadu Condensed News Update**
-**Generated: 2026-11-26 18:10 IST**
-**Coverage: Last 12-24 hours (approx. Nov 25 evening – Nov 26 evening)**
+**Generated: 2026-11-27 18:10 IST**
+**Coverage: Last 12-24 hours (approx. Nov 26 evening – Nov 27 evening)**
 
 ---
 
 **a. Schools and Colleges** (include AI/education technology)
 
-1. **Local school holiday in Tiruchendur (Thoothukudi) after overnight rain waterlogging**
-   District Collector declared holiday for schools in Tiruchendur circle on Nov 26 due to flooded grounds. No statewide or confirmed Chennai-wide closure; parents advised to check local Collector orders as rain continues.
-   Source: Local reports / The Hawk, Nov 26.
+1. **TN SCERT continues AI/ICT teacher training for government schools**
+   Postgraduate and graduate teachers (maths, science, physics etc.) trained on AI tools for creating animated videos, audio, quizzes, simulations and interactive resources. Resource persons cascade training statewide to improve engagement.
+   Source: BW Education / ET Education (recent updates). https://www.bweducation.com/article/tamil-nadu-trains-government-school-teachers-to-use-ai-tools-in-classrooms-630993
 
-2. **SCERT AI/ICT training for teachers ongoing in Chennai**
-   Over 150 maths and science teachers (Classes 6-10) in five-day residential programme. Focus on AI tools for experiments, quizzes (Gimkit), digital resources and real-life examples. Resource persons to cascade training statewide.
-   Source: Times of India, Nov 24.
+2. **Government school admissions for 2026-27 academic year progressing**
+   Early start (from March) to boost enrolment in ~37,554 schools. Class 1 admissions inaugurated in Chennai.
+   Source: Live Chennai reports.
 
-3. **Knowledge City infrastructure works underway (Tiruvallur)**
-   Industries Minister S. Keerthana confirmed phase-one construction progressing at IGES 2027 curtain-raiser. 872-acre project; plot allocation by April 2027; Knowledge Tower later in 2028. University of Melbourne, IIT Madras and others engaged; five MoUs signed.
-   Source: The Hindu, Nov 26.
+3. **Knowledge City infrastructure works underway near Chennai (Tiruvallur)**
+   Phase-one construction progressing; tower targeted later 2028. Institutions including University of Melbourne and IIT Madras engaged; multiple MoUs signed. Linked to IGES 2027.
+   Source: The Hindu, Nov 26. https://www.thehindu.com/news/cities/chennai/infrastructure-works-for-knowledge-city-under-way-says-tn-minister-for-industries/article71739952.ece
 
-4. **Model schools using premium AI (Claude, Gemini) for performance tracking**
-   Headmasters spending up to ₹1 lakh/year on tools for dashboards, remedial teaching and competitive exam prep. Pilot at Saidapet CoAE; shared across 38 district model schools with tablets for students.
-   Source: Times of India / Elets, mid-Nov.
+4. **Model schools using premium AI tools (Claude, Gemini)**
+   For performance dashboards, remedial teaching and competitive exam prep. Subscriptions up to ₹1 lakh/year; tablets available for students.
+   Source: Times of India / Elets (mid-Nov ongoing).
 
-5. **Cognizant Immersive Learning Center Phase-1 operational at Siruseri**
-   165,000 sq ft facility with 58 classrooms (1,822 seats) for AI skill-building. Targets 5,000 Frontier Certified Engineers and 10,000 Business Operators.
-   Source: Company announcements / BusinessLine, Nov 19-20.
+5. **Winter holidays confirmed: Dec 24, 2026 to Jan 1, 2027**
+   Plus Pongal closures mid-January. No statewide rain holiday today in Chennai; local Collectors may decide based on conditions.
+   Source: Education Times / Jagran Josh, Nov 27.
 
-6. **TN AI self-learning programme expanding in government schools**
-   Thannilai Katral Thittam for Classes 6-8 in 500 middle schools across 15 districts, building on earlier teacher AI training.
-   Source: Elets / Indian Express Tamil, early Nov.
+6. **Chennai Corporation re-enrols out-of-school children post-festival**
+   619 children traced and re-enrolled with bridge courses to prevent dropouts.
+   Source: The Hindu, Nov 25.
 
 ---
 
 **b. Chennai / Tamil Nadu Politics**
 
-1. **CM Joseph Vijay announces 15-day paternity leave for male government employees**
-   First-time provision: married male staff can take 15 days either 15 days before childbirth or within six months after. Complements 365-day maternity leave; aims to support shared parenting.
-   Sources: The Hindu, India Today, DT Next, Nov 26.
+1. **DMK softens stand on Delimitation Bill**
+   Spokesperson TKS Elangovan indicates party may accept revised draft if concerns addressed. Congress criticises shift; Stalin maintains TN must retain ~7.18% Lok Sabha seat share.
+   Source: India TV / Deccan Chronicle, Nov 27. https://www.indiatvnews.com/news/india/dmk-softens-stand-on-delimitation-bill-says-it-may-accept-fresh-draft-if-concerns-are-addressed-2026-11-27-1060508
 
-2. **Udhayanidhi Stalin meets Governor, seeks CBI probe in Kallakurichi MLA case and law & order report**
-   LoP submitted memorandum urging arrest of TVK MLA C. Arul Vignesh (alleged harassment of woman Collector), preservation of evidence, CBI transfer, and comprehensive report from CM under Article 167(b) since June 2026. Cited other issues including crimes against women and custodial deaths.
-   Sources: The Hindu, DT Next, New Indian Express, Nov 26.
+2. **Supreme Court orders Karthigai Deepam lighting at Thiruparankundram Deepathoon on Nov 28**
+   Suspends temple trust board; issues contempt notices to officials. CM Joseph Vijay holds urgent meeting. Ongoing religious-political row.
+   Source: The Hindu / DT Next / PTI, Nov 27.
 
-3. **Knowledge City and AI City pitch at IGES curtain-raiser**
-   Ministers Keerthana and R. Kumar highlighted progress and invited investments. Summit planned for Feb 2027 in Mamallapuram.
-   Source: The Hindu, Nov 26.
+3. **DMK convenes MPs’ meeting on Parliament session strategy**
+   Focus includes delimitation and other issues ahead of session.
+   Source: DT Next, Nov 27.
 
-4. **Ongoing opposition pressure on law and order under TVK government**
-   Demands for action against ruling-party legislators continue amid previous petitions to DGP.
-   Sources: Recent political coverage, Nov 25-26.
+4. **PMK ready to support delimitation Bill if Tamil Nadu interests protected**
+   Statement from Anbumani Ramadoss.
+   Source: DT Next, Nov 27.
+
+5. **Two DMK functionaries electrocuted while erecting Udhayanidhi birthday banner in Tiruvallur**
+   One injured; incident during preparations.
+   Source: New Indian Express, Nov 27.
+
+6. **Madras High Court refuses to reject election petition against CM Vijay (Perambur)**
+   Petition challenging victory continues.
+   Source: Deccan Chronicle / The Hindu, Nov 27.
 
 ---
 
 **c. Weather in India / Chennai**
 
-1. **IMD heavy rain warning for southern TN districts on Nov 26-27**
-   Isolated heavy rain with thunderstorms, lightning and gusty winds (40-50 kmph) likely in Dindigul, Madurai, Virudhunagar, Kanyakumari and hilly parts of Theni/Tenkasi/Tirunelveli. Moderate rain elsewhere.
-   Sources: IMD RMC Chennai, Oneindia, News18 Tamil, Nov 26.
+1. **Chennai today (Nov 27): Rain/drizzle expected, max 31°C / min 26°C**
+   Partly cloudy to mostly cloudy with high humidity. Precipitation amount ~12 mm, chance ~79%. Light to moderate showers possible.
+   Source: Forecast data.
 
-2. **Chennai: Moderate rain possible with thunderstorms till Nov 28**
-   Partly cloudy to mostly cloudy; max around 31-32°C, min 25-26°C. Light to moderate showers in some areas; no heavy rain expected over the city. High humidity.
-   Sources: IMD, Times of India, weather forecasts.
+2. **Tomorrow (Nov 28): Drizzle, cooler 24-29°C, stronger winds**
+   Precipitation chance ~71%; gusts higher.
 
-3. **School holiday risk in affected districts**
-   Collectors may declare local holidays based on rainfall intensity and waterlogging (as seen in Tiruchendur). Monitor official announcements.
-   Sources: Economic Times, local reports.
+3. **Heavy rain alerts for select districts**
+   Coimbatore and Theni today; Nilgiris, Coimbatore, Tenkasi, Thoothukudi, Nellai and Kanyakumari tomorrow. Thunderstorms and lightning possible in pockets.
+   Source: Local IMD reports / Thentamil, Nov 27.
 
-4. **Northeast monsoon influence continues via easterly trough**
-   Activity over South Peninsula; precautions advised for low-lying areas and travel.
-   Sources: IMD bulletins.
+4. **TANGEDCO power cuts in parts of Chennai today**
+   Affected areas include Egmore, Pallavaram, IT Corridor, Alamathy and others for maintenance.
+   Source: Daily Jagran. https://www.thedailyjagran.com/india/news/chennai-power-cut-on-november-27-tangedco-announces-shutdown-on-friday-check-list-of-affected-areas-timings-10337780
+
+5. **No major city-wide school holiday declared for rain today**
+   Local waterlogging may prompt Collectors to act; monitor official updates.
 
 ---
 
 **d. Current / trending on X and high-readership social platforms**
 
-1. **#ConstitutionDay / Samvidhan Diwas dominates India trends**
-   Nationwide celebrations, PM Modi greetings, Congress Samvidhan Raksha marches, Preamble reading in multiple languages. Nov 26 marks adoption of the Constitution.
-   Sources: trends24.in, Endless, news coverage.
+1. **#MadrasHighCourt and Thiruparankundram Deepam row dominate Chennai trends**
+   SC order for lamp lighting, board suspension widely discussed.
 
-2. **Paternity leave announcement and Kallakurichi case circulating locally**
-   Shares of CM Vijay order and opposition demands on law & order.
-   Source: X posts and media shares, Nov 26.
+2. **Delimitation Bill and DMK position circulating**
+   Political debate on revised draft and seat share.
 
-3. **Rain alerts and weather updates prominent in Chennai/TN feeds**
-   IMD warnings and local nowcasts shared widely.
-   Source: Local weather accounts and news.
+3. **#HBDUdhay and related banner incident**
+   Birthday wishes mixed with accident reports.
 
-4. **Happy Thanksgiving and other national/international trends**
-   Alongside #vivoX500Series, Mumbai attacks anniversary references and entertainment topics.
-   Sources: X trend aggregators.
+4. **Cricket updates: Akash Deep and India vs New Zealand**
+   Performance highlights in feeds.
 
-5. **Knowledge City / IGES discussions in official and media posts**
-   TIDCO and government accounts highlighting the summit curtain-raiser.
-   Source: X (@TIDCO_1965), Nov 26.
+5. **National/tech trends: #GalaxyS26Ultra, #HappyNewYearWithJio, stock circuit topics**
+   Alongside residual Thanksgiving and entertainment hashtags.
 
 ---
 
 **e. AI-related and Technology news** (India focus, education, infrastructure)
 
-1. **Knowledge City advances as education-research hub near Chennai**
-   Phase-one infrastructure underway in Tiruvallur; foreign universities and IIT Madras engaged. AI Minister invited investments in AI City alongside.
-   Source: The Hindu, Nov 26.
+1. **Tamil Nadu scales classroom AI integration via teacher training**
+   SCERT programmes equip educators with tools for content creation and interactive learning.
 
-2. **Ongoing teacher AI literacy and classroom tools in TN**
-   SCERT programmes using Physics AI simulations, Gimkit, Gemini Notebook. Model schools adopting premium LLMs for analytics.
-   Sources: TOI, EdexLive.
+2. **Knowledge City and AI City investment pitch continues**
+   Ministers highlight infrastructure progress and invite participation in AI/education hubs near Chennai.
 
-3. **Cognizant AI Immersive Learning Center scales workforce skills in Chennai**
-   Major investment in instructor-led AI training at Siruseri campus.
-   Source: Company releases, Nov 19-20.
+3. **India AI skills race accelerates**
+   GenAI course enrolments at 12 per minute; demand for AI security and agentic AI surging. Human skills lag global pace.
+   Source: News18, Nov 27. https://www.news18.com/tech/ai-is-driving-a-new-race-for-skills-in-india-as-workers-prepare-for-a-changing-job-market-10443441.html
 
-4. **National context: Google-MSDE MoU for AI-led university; Accenture-Google AI labs in 1,000 campuses**
-   Broader IndiaAI Mission and edtech partnerships continue to expand access.
-   Sources: BW Education, Elets (recent).
+4. **IIT Kharagpur to set up India’s first Physical AI School**
+   Interdisciplinary focus on robotics, digital twins, autonomous systems; ~₹35 crore investment.
 
-5. **NIELIT AI & Quantum University transit campus inaugurated (Andhra Pradesh)**
-   MeitY-backed initiative for specialised deep-tech education.
-   Source: Recent announcements.
+5. **Accenture LearnVantage + Google Cloud AI labs targeting 1,000 campuses**
+   Industry-aligned AI learning expansion.
+
+6. **Revature hosted AI education summit in Chennai**
+   Aimed at making India global hub for AI-native engineers; industry-academia collaboration stressed.
 
 ---
 
-**Note:** Weather alerts, school/college holiday decisions, power cuts and political developments can change quickly. Always verify with official IMD bulletins, district Collector announcements, TANGEDCO and school circulars before planning travel or school attendance.
+**Note:** Weather alerts, school/college holiday decisions, power cuts and political developments can change quickly. Always verify with official IMD bulletins, district Collector announcements, TANGEDCO schedules and school circulars before planning travel or attendance.
